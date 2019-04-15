@@ -1,0 +1,158 @@
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csproj.CoreCompileInputs.cache
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\CadeMedico.dll.config
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\CadeMedico.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\CadeMedico.pdb
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csc.exe
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csc.exe.config
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csc.rsp
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csi.exe
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csi.exe.config
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\csi.rsp
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.AppContext.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Console.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.IO.Compression.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Claims.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.ValueTuple.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\vbc.exe
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\vbc.exe.config
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\vbc.rsp
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\VBCSCompiler.exe
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\EntityFramework.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\EntityFramework.SqlServer.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Helpers.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Mvc.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Razor.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.Razor.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\EntityFramework.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\EntityFramework.SqlServer.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Razor.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Webpages.Razor.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Helpers.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\System.Web.Mvc.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csproj.CopyComplete
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\obj\Debug\CadeMedico.dll
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\obj\Debug\CadeMedico.pdb
+C:\Users\Senai\source\repos\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csprojAssemblyReference.cache
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\CadeMedico.dll.config
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\CadeMedico.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\CadeMedico.pdb
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csc.exe
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csc.exe.config
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csc.rsp
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csi.exe
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csi.exe.config
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\csi.rsp
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.Managed.Core.targets
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.AppContext.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Collections.Immutable.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Console.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.IO.Compression.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.IO.FileSystem.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.IO.Pipes.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Reflection.Metadata.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.AccessControl.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Claims.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Security.Principal.Windows.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.ValueTuple.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XmlDocument.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XPath.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\vbc.exe
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\vbc.exe.config
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\vbc.rsp
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\VBCSCompiler.exe
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\roslyn\VBCSCompiler.exe.config
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\EntityFramework.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\EntityFramework.SqlServer.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\Microsoft.Web.Infrastructure.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Helpers.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Mvc.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Razor.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.Deployment.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.Razor.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\EntityFramework.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\EntityFramework.SqlServer.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Razor.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.Deployment.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Webpages.Razor.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Helpers.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\System.Web.Mvc.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Razor.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Helpers.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\bin\pt-br\System.Web.Mvc.resources.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csprojAssemblyReference.cache
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csproj.CoreCompileInputs.cache
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\obj\Debug\CadeMedico.csproj.CopyComplete
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\obj\Debug\CadeMedico.dll
+D:\arq tcs lala\c#\CadeMedico\CadeMedico\obj\Debug\CadeMedico.pdb

@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CadeMedicoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cidades">
+    <Key>
+      <PropertyRef Name="IDcidade" />
+    </Key>
+    <Property Name="IDcidade" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Especialidades">
+    <Key>
+      <PropertyRef Name="IDespecialidade" />
+    </Key>
+    <Property Name="IDespecialidade" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="80" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Estados">
+    <Key>
+      <PropertyRef Name="IDestado" />
+    </Key>
+    <Property Name="IDestado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDpais" Type="int" Nullable="false" />
+    <Property Name="Estado" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sigla" Type="varchar" MaxLength="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Medicos">
+    <Key>
+      <PropertyRef Name="IDmedico" />
+    </Key>
+    <Property Name="IDmedico" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IDespecialidade" Type="int" Nullable="false" />
+    <Property Name="CRM" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="Endereco" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="Bairro" Type="varchar" MaxLength="60" />
+    <Property Name="IDcidade" Type="int" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" />
+    <Property Name="AtendePorConvenio" Type="bit" Nullable="false" />
+    <Property Name="TemClinica" Type="bit" Nullable="false" />
+    <Property Name="WebsiteBlog" Type="varchar" MaxLength="80" />
+  </EntityType>
+  <EntityType Name="Paises">
+    <Key>
+      <PropertyRef Name="IDpais" />
+    </Key>
+    <Property Name="IDpais" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Pais" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Sigla" Type="varchar" MaxLength="2" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="IDusuario" />
+    </Key>
+    <Property Name="IDusuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nome" Type="varchar" MaxLength="80" Nullable="false" />
+    <Property Name="Loginn" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Senha" Type="varchar(max)" Nullable="false" />
+    <Property Name="Email" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <Association Name="fk_medicos_cidades">
+    <End Role="Cidades" Type="Self.Cidades" Multiplicity="1" />
+    <End Role="Medicos" Type="Self.Medicos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cidades">
+        <PropertyRef Name="IDcidade" />
+      </Principal>
+      <Dependent Role="Medicos">
+        <PropertyRef Name="IDcidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="fk_medicos_especialidades">
+    <End Role="Especialidades" Type="Self.Especialidades" Multiplicity="1" />
+    <End Role="Medicos" Type="Self.Medicos" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Especialidades">
+        <PropertyRef Name="IDespecialidade" />
+      </Principal>
+      <Dependent Role="Medicos">
+        <PropertyRef Name="IDespecialidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CadeMedicoModelStoreContainer">
+    <EntitySet Name="Cidades" EntityType="Self.Cidades" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Especialidades" EntityType="Self.Especialidades" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Estados" EntityType="Self.Estados" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Medicos" EntityType="Self.Medicos" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Paises" EntityType="Self.Paises" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_medicos_cidades" Association="Self.fk_medicos_cidades">
+      <End Role="Cidades" EntitySet="Cidades" />
+      <End Role="Medicos" EntitySet="Medicos" />
+    </AssociationSet>
+    <AssociationSet Name="fk_medicos_especialidades" Association="Self.fk_medicos_especialidades">
+      <End Role="Especialidades" EntitySet="Especialidades" />
+      <End Role="Medicos" EntitySet="Medicos" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
